@@ -3,6 +3,18 @@
 ## Description
 This project is a simple inverted search engine that can be used to search for words in a given text file. The project is written in C. 
 
+## Files
+- `main.c`: This is the main file that contains the main function.
+- `search.c`: This file contains the functions that are used to search or traverse in the database.
+- `search.h`: This file contains the function declarations for the search.c file.
+- `create.c`: This file contains the functions that are used to create, and update the database.
+- `create.h`: This file contains the function declarations for the create.c file.
+- `file.c`: This file contains the functions that are used to read database from a file or write database to a file.
+- `file.h`: This file contains the function declarations for the file.c file.
+- `makefile`: This file is used to compile the project.
+- `struct.h`: This file contains the structure that is used to store the database.
+- `file1.txt, file2.txt`: These are some example text files that are can be used to create the database.
+
 ## How to run
 To run the project, you need to have a text file that you want to search for words in. You can use the provided `file1.txt` and `file2.txt` file. To run the project, you can use the following command:
 ```
