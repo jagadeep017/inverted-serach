@@ -9,7 +9,7 @@ To run the project, you need to have a text file that you want to search for wor
 make
 ./a.out file1.txt file2.txt file3.txt
 ```
-This will run the project and you can start adding the words into the datavase and searching for words.
+This will run the project and you can start adding the words into the database and searching for words.
 
 ## How to use
 The project has the following operations:
